@@ -1,0 +1,5 @@
+{
+	"devDependencies": {
+		"electron-vite": "^1.0.28"
+	}
+}
